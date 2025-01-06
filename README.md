@@ -22,11 +22,11 @@ https://github.com/AAAA-source/US-Stock-Market-Analysis-and-Prediction/blob/main
 
 ## Using Models 
 ### Single Model
-Naïve Bayes : Multinomial NB , Gaussian NB , Complement NB , Bernoulli NB , NBs with LDA , 
-SVM 
-Rocchio
-K-means
-KNN , KNN with SVD
-Neural Network , Simple RNN
+- Naïve Bayes : Multinomial NB , Gaussian NB , Complement NB , Bernoulli NB , NBs with LDA , 
+- SVM 
+- Rocchio
+- K-means
+- KNN , KNN with SVD
+- Neural Network , Simple RNN
 ### Merge Models
 SVM + Bernoulli NB , SVM + NB
