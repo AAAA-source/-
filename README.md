@@ -13,6 +13,20 @@ Our findings indicate that ensemble methods, combining multiple well-performing 
 However, the relatively small dataset size and the simplicity of the classification task limit the generalizability of our findings. Future research can address these limitations by expanding the dataset, 
 exploring more granular classification schemes, and incorporating additional textual features and external factors.
 
+## Raw Data 
+https://github.com/AAAA-source/US-Stock-Market-Analysis-and-Prediction/blob/main/%E7%BE%8E%E8%82%A1%E5%85%AC%E5%8F%B8%E8%B2%A1%E5%A0%B1%E6%95%98%E8%BF%B0%26%E8%B2%A1%E5%8B%99%E6%8C%87%E6%A8%99.csv
+
 ## Paper and Reports 
 https://github.com/AAAA-source/US-Stock-Market-Analysis-and-Prediction/blob/main/%E7%BE%8E%E8%82%A1%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.pdf
 https://github.com/AAAA-source/US-Stock-Market-Analysis-and-Prediction/blob/main/%E7%BE%8E%E8%82%A1%E5%88%86%E6%9E%90slide.pdf
+
+## Using Models 
+### Single Model
+Naïve Bayes : Multinomial NB , Gaussian NB , Complement NB , Bernoulli NB , NBs with LDA , 
+SVM 
+Rocchio
+K-means
+KNN , KNN with SVD
+Neural Network , Simple RNN
+### Merge Models
+SVM + Bernoulli NB , SVM + NB
