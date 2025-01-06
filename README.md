@@ -29,4 +29,5 @@ https://github.com/AAAA-source/US-Stock-Market-Analysis-and-Prediction/blob/main
 - KNN , KNN with SVD
 - Neural Network , Simple RNN
 ### Merge Models
-SVM + Bernoulli NB , SVM + NB
+- SVM + Bernoulli NB
+- SVM + NB
